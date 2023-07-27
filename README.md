@@ -1,5 +1,6 @@
+#GLORY AGBOFAME
 # Library-Management-System.py
-Sure! Here's the documentation for the Library Management System code, including explanations for the methods, functions, and modules used:
+Here's the documentation for the Library Management System code, including explanations for the methods, functions, and modules used:
 
 ## Library Management System Documentation
 
